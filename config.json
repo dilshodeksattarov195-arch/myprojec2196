@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdender",
+        "uuid": 4332708,
+        "checksum": "wfmyd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
